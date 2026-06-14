@@ -122,9 +122,3 @@ This project demonstrates concepts such as:
 - Information Security
 - Digital Steganography
 - Python Application Development
-
----
-
-## License
-
-This project is licensed under the MIT License.
