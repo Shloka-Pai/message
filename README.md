@@ -92,11 +92,11 @@ python app.py
 
 ### Original Image
 
-![Original Image](images/original.png)
+![Original Image](input_image.jpg)
 
 ### Encoded Image
 
-![Encoded Image](images/encoded.png)
+![Encoded Image](input_image.jpg)
 
 Although both images appear identical to the human eye, the encoded image contains a hidden message that can be extracted using the decoding process.
 
